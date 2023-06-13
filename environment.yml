@@ -1,0 +1,26 @@
+name: py38_drf
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.05.30=haa95532_0
+  - libffi=3.4.4=hd77b12b_0
+  - openssl=1.1.1t=h2bbff1b_0
+  - pip=23.0.1=py38haa95532_0
+  - python=3.8.16=h6244533_3
+  - setuptools=67.8.0=py38haa95532_0
+  - sqlite=3.41.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.38.4=py38haa95532_0
+  - pip:
+      - asgiref==3.7.2
+      - backports-zoneinfo==0.2.1
+      - django==4.2.2
+      - djangorestframework==3.14.0
+      - mysqlclient==2.1.1
+      - pillow==9.5.0
+      - pytz==2023.3
+      - sqlparse==0.4.4
+      - typing-extensions==4.6.3
+      - tzdata==2023.3
+prefix: C:\Users\efkje\anaconda3\envs\py38_drf
